@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Text To Speech Converter</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="hero">
+    <h1>Speech <span>Converter</span></h1>
+    <textarea placeholder="Enter your text here..."></textarea>
+    <div class="progress-container">
+      <div class="progress-bar"></div>
+    </div>
+    <div class="controls-row">
+      <select id="voice-select">
+        <option value="" disabled selected>Loading voices...</option>
+      </select>
+      <button onclick="toggleAudio()">Generate & Listen</button>
+      <button id="download-btn" class="download-btn hidden" onclick="downloadAudio()">
+        Download Speech
+      </button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
