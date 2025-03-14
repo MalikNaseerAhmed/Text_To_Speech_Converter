@@ -44,5 +44,4 @@ Turn your text into speech with this sleek and modern **Text to Speech (TTS) Con
 ✅ **Microsoft Edge** 🔵
 ⚠️ Some browsers may have limited support for the **Web Speech API**.
 
-### 🔥 Ready to witness the magic live? ✨ Dive into our project and experience the future of text-to-speech like never before! 🎙️🚀
-https://maliknaseerahmed.github.io/Text_To_Speech_Converter
+### 🔥 Ready to witness the magic live? ✨ Dive into our project and experience the future of text-to-speech like never before! 🎙️🚀 <a href="https://maliknaseerahmed.github.io/Text_To_Speech_Converter" target="_blank">Text To Speech Converter</a>
